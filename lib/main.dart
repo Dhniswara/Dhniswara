@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:tugas_flutter/pages/nav.dart';
 import 'package:tugas_flutter/pages/page1.dart';
 import 'package:tugas_flutter/pages/page2.dart';
 import 'package:tugas_flutter/pages/page3.dart';
 import 'package:tugas_flutter/pages/page4.dart';
+
 
 
 void main() {
